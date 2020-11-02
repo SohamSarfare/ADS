@@ -1,0 +1,72 @@
+\documentclass[11pt]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usetheme{AnnArbor}
+\begin{document}
+	\author[Soham, Sukhmani, Tarun, Ali]{Soham Sarfare \and Sukhmani Arora \and Tarun Tirupati \and Ali Saeed}
+	\title[First Order Model]{First Order Motion Model for Image Animation}
+	\subtitle{Application of Data Science - Project Proposal Presentation Group F}
+	%\logo{\includegraphics[height=1.0cm]{logo.png}}
+	\institute[]{Faculty of Computing \\ Macquarie University}
+	%\date{}
+	%\subject{}
+	%\setbeamercovered{transparent}
+	%\setbeamertemplate{navigation symbols}{}
+	\begin{frame}[plain]
+		\maketitle
+	\end{frame}
+	\begin{frame}
+		\frametitle{Introduction}
+		Name of the Paper: First Order Motion Model for Image Animation\\
+		Authors: Aliaksandr Siarohin, Stéphane Lathuilière , Sergey Tulyakov, Elisa Ricci, Nicu Sebe
+		\begin{itemize}
+			\item This is an example of a deep fake or simply a type of artificial intelligence which can be used to produce convincing images, videos, audios, GIFs, aging, face swapping, etc.
+			\item The above-mentioned paper was published in a latest prestigious conference - The Conference on Neural Information Processing Systems(NeurIPS) in December 2019.
+			\item Deep fake is a trending topic these days which makes it a good candidate for us to replicate a paper in this domain.
+		\end{itemize}
+	\end{frame}
+\begin{frame}
+\frametitle{How it Works?}
+\begin{centering}
+\includegraphics[width=8cm, height=2.6cm]{pipeline.png}\\
+\end{centering}
+
+\begin{itemize}
+\item Recognises keypoints in both the source image and the driving video and encodes motion as keypoint-pairs displacement and local affine transformations.
+\item A dense motion network combines neighbouring transformations to obtain a dense motion field. 
+\item In addition, this network outputs an occlusion mask to identify which parts of the driving video can be reconstructed by warping of source image.
+\item This occusion mask and motion field are combined using a generator network to output the final video.
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Datasets and Code Implementation}
+\begin{itemize}
+\item Can use a few of the following datasets: Taichi, Mgif, Fashion and Nemo available in the GitHub repository along with the paper
+\item To run these datasets on the code, the python script is available to download and preprocess them directly from GitHub and YouTube
+\item The project is implemented in python and is available in GitHub repository along with the paper
+\item The results could be reproduced using platforms like Google Colab or Pycharm
+\end{itemize}
+\end{frame}
+\begin{frame}
+\frametitle{Original Data Sources}
+During the testing period we apply our model to the source image and each frame of the driving video and perform animation of the source image.
+There are two ways for performing image animation
+\begin{itemize}
+\item absolute keypoint locations 	
+\item relative keypoint  locations
+\end{itemize}
+In our paper the datasets used are  obtained from multiple websites and the data is resized . The data is in png form  for better performance and reduce loss.
+\begin{itemize}
+\item We will be extracting data for multiple resources such as Kaggle, facebook deepfake challenge datasets and try to reproduce similar results obtained in the paper. 
+\item Dataset can also be manually obtained from various websites from browser.
+\item The source image can be our own face for example which needs to be resized to be able to pair with any driving videos with similar object category.
+\end{itemize}
+
+\end{frame}
+\end{document}

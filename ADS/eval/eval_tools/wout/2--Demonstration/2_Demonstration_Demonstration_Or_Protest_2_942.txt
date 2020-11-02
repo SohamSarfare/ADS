@@ -1,0 +1,6 @@
+2--Demonstration/2_Demonstration_Demonstration_Or_Protest_2_942.jpg
+4
+248 172 400 581 0.996491 
+189 169 11 13 0.217397 
+161 195 15 18 0.178071 
+149 316 15 20 0.0205183 

@@ -1,0 +1,5 @@
+25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_640.jpg
+3
+433 0 245 333 0.999437 
+840 319 124 149 0.311634 
+339 689 50 54 0.0335004 

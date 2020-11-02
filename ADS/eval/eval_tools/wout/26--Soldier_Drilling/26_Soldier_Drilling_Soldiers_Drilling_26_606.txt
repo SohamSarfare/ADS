@@ -1,0 +1,4 @@
+26--Soldier_Drilling/26_Soldier_Drilling_Soldiers_Drilling_26_606.jpg
+2
+222 73 117 167 0.999344 
+642 102 123 185 0.999144 

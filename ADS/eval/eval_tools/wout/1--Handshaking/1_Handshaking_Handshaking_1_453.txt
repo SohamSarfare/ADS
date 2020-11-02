@@ -1,0 +1,4 @@
+1--Handshaking/1_Handshaking_Handshaking_1_453.jpg
+2
+278 75 102 140 0.999782 
+674 213 78 127 0.999541 

@@ -1,0 +1,4 @@
+36--Football/36_Football_americanfootball_ball_36_111.jpg
+2
+469 127 131 173 0.999918 
+420 1272 64 51 0.180699 

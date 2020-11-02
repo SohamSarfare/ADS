@@ -1,0 +1,4 @@
+40--Gymnastics/40_Gymnastics_Gymnastics_40_580.jpg
+2
+159 281 122 99 0.757816 
+188 306 79 60 0.0563968 

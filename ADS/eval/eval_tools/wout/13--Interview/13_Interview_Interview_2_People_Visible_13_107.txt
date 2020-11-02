@@ -1,0 +1,4 @@
+13--Interview/13_Interview_Interview_2_People_Visible_13_107.jpg
+2
+430 86 124 159 0.999696 
+902 601 68 81 0.202106 

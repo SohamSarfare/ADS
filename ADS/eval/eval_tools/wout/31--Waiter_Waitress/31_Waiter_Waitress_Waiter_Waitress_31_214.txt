@@ -1,0 +1,5 @@
+31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_214.jpg
+3
+336 82 110 136 0.999559 
+170 57 108 140 0.999489 
+825 58 129 166 0.999064 

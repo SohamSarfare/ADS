@@ -1,0 +1,4 @@
+13--Interview/13_Interview_Interview_2_People_Visible_13_260.jpg
+2
+326 349 464 605 0.996135 
+0 545 354 485 0.0413678 

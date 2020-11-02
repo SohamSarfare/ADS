@@ -1,0 +1,4 @@
+47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_196.jpg
+2
+450 130 53 65 0.999353 
+661 386 101 118 0.228557 

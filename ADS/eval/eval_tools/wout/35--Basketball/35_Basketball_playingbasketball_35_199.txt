@@ -1,0 +1,4 @@
+35--Basketball/35_Basketball_playingbasketball_35_199.jpg
+2
+588 222 216 195 0.999787 
+660 232 208 258 0.027853 

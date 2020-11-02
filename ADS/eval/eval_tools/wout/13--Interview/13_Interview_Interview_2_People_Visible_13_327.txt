@@ -1,0 +1,5 @@
+13--Interview/13_Interview_Interview_2_People_Visible_13_327.jpg
+3
+359 195 175 262 0.999064 
+590 150 165 255 0.998564 
+113 154 30 36 0.0218737 

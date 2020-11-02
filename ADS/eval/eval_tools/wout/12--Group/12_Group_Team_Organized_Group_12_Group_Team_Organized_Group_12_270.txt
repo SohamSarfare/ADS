@@ -1,0 +1,6 @@
+12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_270.jpg
+4
+448 15 60 76 0.999504 
+125 0 168 217 0.493774 
+311 150 34 41 0.409498 
+316 377 49 65 0.0408921 

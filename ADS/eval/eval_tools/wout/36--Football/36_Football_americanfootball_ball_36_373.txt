@@ -1,0 +1,5 @@
+36--Football/36_Football_americanfootball_ball_36_373.jpg
+3
+642 66 68 88 0.999775 
+407 110 62 62 0.998277 
+380 91 45 73 0.10464 

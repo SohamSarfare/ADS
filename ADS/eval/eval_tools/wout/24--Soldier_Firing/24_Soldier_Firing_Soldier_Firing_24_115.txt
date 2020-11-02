@@ -1,0 +1,5 @@
+24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_115.jpg
+3
+276 97 81 129 0.999501 
+166 329 236 314 0.0447551 
+49 196 11 15 0.0244063 

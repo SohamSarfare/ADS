@@ -1,0 +1,5 @@
+59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_202.jpg
+3
+685 134 192 259 0.999368 
+420 160 141 185 0.998931 
+324 158 56 67 0.105676 

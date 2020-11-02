@@ -1,0 +1,4 @@
+15--Stock_Market/15_Stock_Market_Stock_Market_15_303.jpg
+2
+672 105 291 381 0.996027 
+802 325 216 297 0.0741795 

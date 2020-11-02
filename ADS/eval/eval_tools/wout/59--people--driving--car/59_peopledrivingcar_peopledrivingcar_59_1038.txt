@@ -1,0 +1,4 @@
+59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_1038.jpg
+2
+252 273 545 696 0.802004 
+0 1082 199 549 0.0221626 

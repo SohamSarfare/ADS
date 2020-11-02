@@ -1,0 +1,5 @@
+52--Photographers/52_Photographers_taketouristphotos_52_331.jpg
+3
+483 357 28 32 0.999392 
+444 386 25 30 0.998932 
+252 428 11 12 0.13989 

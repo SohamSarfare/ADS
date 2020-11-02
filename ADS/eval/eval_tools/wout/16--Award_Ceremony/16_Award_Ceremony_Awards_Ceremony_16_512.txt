@@ -1,0 +1,5 @@
+16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_512.jpg
+3
+356 137 239 330 0.998314 
+119 797 54 52 0.673519 
+133 1501 40 40 0.305234 

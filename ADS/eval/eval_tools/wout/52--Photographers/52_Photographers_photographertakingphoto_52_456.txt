@@ -1,0 +1,5 @@
+52--Photographers/52_Photographers_photographertakingphoto_52_456.jpg
+3
+553 221 204 274 0.998921 
+505 418 142 182 0.0837863 
+495 306 215 279 0.0627461 

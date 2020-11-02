@@ -1,0 +1,5 @@
+16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_309.jpg
+3
+277 191 274 370 0.999097 
+887 444 136 231 0.997768 
+699 310 128 197 0.997723 

@@ -1,0 +1,4 @@
+32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_860.jpg
+2
+329 409 399 482 0.986925 
+481 522 311 423 0.0280863 

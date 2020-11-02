@@ -1,0 +1,4 @@
+2--Demonstration/2_Demonstration_Demonstrators_2_12.jpg
+2
+288 551 128 132 0.999416 
+83 411 13 14 0.0533829 

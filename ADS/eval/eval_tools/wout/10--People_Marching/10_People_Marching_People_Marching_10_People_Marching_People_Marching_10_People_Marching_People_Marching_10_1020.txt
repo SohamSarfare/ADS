@@ -1,0 +1,5 @@
+10--People_Marching/10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_1020.jpg
+3
+686 90 39 61 0.992014 
+275 372 131 144 0.500311 
+552 378 213 327 0.0239297 

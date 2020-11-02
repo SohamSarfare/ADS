@@ -1,0 +1,5 @@
+25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_707.jpg
+3
+331 129 46 78 0.999045 
+693 176 37 56 0.998141 
+694 37 22 26 0.0220337 

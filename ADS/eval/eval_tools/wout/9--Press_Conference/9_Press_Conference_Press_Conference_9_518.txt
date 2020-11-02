@@ -1,0 +1,5 @@
+9--Press_Conference/9_Press_Conference_Press_Conference_9_518.jpg
+3
+760 152 174 268 0.999822 
+392 314 167 247 0.999819 
+922 1268 16 21 0.118608 

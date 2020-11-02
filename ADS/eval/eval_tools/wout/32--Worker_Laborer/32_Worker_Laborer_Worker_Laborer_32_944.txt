@@ -1,0 +1,5 @@
+32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_944.jpg
+3
+416 352 95 116 0.999745 
+921 989 31 23 0.0528443 
+53 670 37 43 0.0394901 

@@ -1,0 +1,4 @@
+10--People_Marching/10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_552.jpg
+2
+438 103 71 85 0.999463 
+825 0 43 56 0.0353473 

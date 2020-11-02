@@ -1,0 +1,6 @@
+29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_74.jpg
+4
+590 259 203 250 0.999576 
+276 254 197 212 0.998924 
+1003 23 20 36 0.426744 
+610 0 233 263 0.0780993 

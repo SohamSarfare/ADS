@@ -1,0 +1,4 @@
+36--Football/36_Football_americanfootball_ball_36_526.jpg
+2
+622 169 106 130 0.999849 
+222 381 124 118 0.0219964 

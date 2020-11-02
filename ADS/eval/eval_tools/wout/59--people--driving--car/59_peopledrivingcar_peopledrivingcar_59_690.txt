@@ -1,0 +1,6 @@
+59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_690.jpg
+4
+741 285 52 76 0.999609 
+293 248 43 69 0.998961 
+255 570 72 67 0.793083 
+402 264 16 21 0.0662018 

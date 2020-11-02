@@ -1,0 +1,4 @@
+45--Balloonist/45_Balloonist_Balloonist_45_550.jpg
+2
+79 300 49 64 0.990621 
+301 701 16 21 0.187581 

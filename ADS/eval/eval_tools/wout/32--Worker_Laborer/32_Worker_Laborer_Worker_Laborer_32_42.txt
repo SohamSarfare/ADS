@@ -1,0 +1,4 @@
+32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_42.jpg
+2
+387 249 170 231 0.999379 
+375 951 80 87 0.0253164 

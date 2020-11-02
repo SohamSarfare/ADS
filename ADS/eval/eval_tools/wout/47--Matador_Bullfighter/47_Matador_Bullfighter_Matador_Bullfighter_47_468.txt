@@ -1,0 +1,5 @@
+47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_468.jpg
+3
+883 27 39 51 0.998793 
+1002 0 20 35 0.970775 
+638 360 29 38 0.025525 

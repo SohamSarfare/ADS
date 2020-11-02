@@ -1,0 +1,5 @@
+36--Football/36_Football_americanfootball_ball_36_25.jpg
+3
+570 88 70 86 0.999752 
+356 123 59 94 0.999629 
+724 142 44 82 0.0272041 

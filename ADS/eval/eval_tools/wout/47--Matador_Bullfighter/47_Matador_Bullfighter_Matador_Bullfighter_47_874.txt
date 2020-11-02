@@ -1,0 +1,5 @@
+47--Matador_Bullfighter/47_Matador_Bullfighter_Matador_Bullfighter_47_874.jpg
+3
+646 237 129 203 0.998815 
+272 246 138 210 0.977467 
+540 0 42 46 0.811011 

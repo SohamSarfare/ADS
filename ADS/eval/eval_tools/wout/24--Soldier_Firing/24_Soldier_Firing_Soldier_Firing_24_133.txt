@@ -1,0 +1,4 @@
+24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_133.jpg
+2
+485 305 45 50 0.997879 
+530 395 23 29 0.237535 

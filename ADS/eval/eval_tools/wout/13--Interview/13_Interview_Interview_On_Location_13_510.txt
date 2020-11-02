@@ -1,0 +1,4 @@
+13--Interview/13_Interview_Interview_On_Location_13_510.jpg
+2
+367 52 311 448 0.999864 
+14 110 325 433 0.0391776 

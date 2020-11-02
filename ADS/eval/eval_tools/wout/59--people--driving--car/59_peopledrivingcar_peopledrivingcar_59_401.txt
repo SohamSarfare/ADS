@@ -1,0 +1,6 @@
+59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_401.jpg
+4
+391 250 111 139 0.999624 
+217 256 159 209 0.997633 
+992 57 25 30 0.0460541 
+463 230 50 74 0.0213263 

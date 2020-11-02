@@ -1,0 +1,5 @@
+48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_537.jpg
+3
+430 365 73 95 0.999466 
+751 966 68 99 0.0505754 
+108 285 66 93 0.0211766 

@@ -1,0 +1,4 @@
+59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_64.jpg
+2
+534 137 162 210 0.996717 
+273 313 56 62 0.0680978 

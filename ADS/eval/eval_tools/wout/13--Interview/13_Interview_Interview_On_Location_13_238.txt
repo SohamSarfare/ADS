@@ -1,0 +1,5 @@
+13--Interview/13_Interview_Interview_On_Location_13_238.jpg
+3
+646 122 81 98 0.998914 
+604 579 52 39 0.0293464 
+1016 36 7 19 0.0255854 

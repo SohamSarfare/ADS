@@ -1,0 +1,4 @@
+15--Stock_Market/15_Stock_Market_Stock_Market_15_301.jpg
+2
+175 83 117 181 0.999569 
+0 330 273 263 0.0438554 

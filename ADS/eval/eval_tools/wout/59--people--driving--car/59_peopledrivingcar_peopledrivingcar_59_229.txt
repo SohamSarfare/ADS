@@ -1,0 +1,4 @@
+59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_229.jpg
+2
+640 152 193 263 0.999624 
+445 421 49 54 0.0203838 

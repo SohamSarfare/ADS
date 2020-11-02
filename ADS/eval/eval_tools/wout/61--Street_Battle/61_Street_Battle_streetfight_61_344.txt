@@ -1,0 +1,4 @@
+61--Street_Battle/61_Street_Battle_streetfight_61_344.jpg
+2
+531 274 199 263 0.999197 
+327 781 149 183 0.0256054 

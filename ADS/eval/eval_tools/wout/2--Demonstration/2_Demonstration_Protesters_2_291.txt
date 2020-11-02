@@ -1,0 +1,4 @@
+2--Demonstration/2_Demonstration_Protesters_2_291.jpg
+2
+427 631 287 368 0.999413 
+0 898 190 302 0.994915 

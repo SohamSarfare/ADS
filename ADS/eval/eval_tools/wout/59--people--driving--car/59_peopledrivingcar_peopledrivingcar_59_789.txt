@@ -1,0 +1,4 @@
+59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_789.jpg
+2
+272 239 226 312 0.999647 
+142 849 32 30 0.0659348 

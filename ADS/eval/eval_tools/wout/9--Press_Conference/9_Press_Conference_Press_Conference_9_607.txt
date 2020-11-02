@@ -1,0 +1,5 @@
+9--Press_Conference/9_Press_Conference_Press_Conference_9_607.jpg
+3
+323 168 257 343 0.999429 
+932 75 29 47 0.61193 
+656 0 63 68 0.0247784 

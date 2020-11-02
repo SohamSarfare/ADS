@@ -1,0 +1,5 @@
+2--Demonstration/2_Demonstration_Political_Rally_2_219.jpg
+3
+321 206 381 522 0.999704 
+277 86 369 381 0.0230287 
+120 114 16 17 0.0208251 

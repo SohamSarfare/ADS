@@ -1,0 +1,4 @@
+25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_121.jpg
+2
+684 89 61 70 0.99938 
+625 244 32 40 0.700751 

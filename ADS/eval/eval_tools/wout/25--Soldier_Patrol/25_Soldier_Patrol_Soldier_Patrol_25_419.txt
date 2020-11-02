@@ -1,0 +1,5 @@
+25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_419.jpg
+3
+471 98 83 105 0.999135 
+645 302 28 35 0.080822 
+636 298 24 34 0.0304681 

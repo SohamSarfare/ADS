@@ -1,0 +1,5 @@
+2--Demonstration/2_Demonstration_Political_Rally_2_800.jpg
+3
+353 201 158 214 0.996526 
+19 0 51 53 0.0424199 
+212 137 110 113 0.0213258 

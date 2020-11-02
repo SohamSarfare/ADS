@@ -1,0 +1,5 @@
+32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_400.jpg
+3
+698 179 47 54 0.998653 
+78 90 23 27 0.0602767 
+161 404 40 60 0.0382545 

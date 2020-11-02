@@ -1,0 +1,5 @@
+48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_321.jpg
+3
+122 19 39 53 0.998902 
+893 21 35 55 0.997916 
+350 29 27 48 0.994188 

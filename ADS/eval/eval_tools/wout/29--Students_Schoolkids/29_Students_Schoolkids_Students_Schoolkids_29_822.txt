@@ -1,0 +1,7 @@
+29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_822.jpg
+5
+471 46 80 108 0.999261 
+336 260 81 98 0.998545 
+596 271 72 93 0.997819 
+199 267 17 22 0.997077 
+144 560 23 28 0.0751555 

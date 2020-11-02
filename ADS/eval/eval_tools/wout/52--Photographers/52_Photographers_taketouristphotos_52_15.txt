@@ -1,0 +1,5 @@
+52--Photographers/52_Photographers_taketouristphotos_52_15.jpg
+3
+766 428 136 183 0.999686 
+230 320 133 192 0.999201 
+520 668 100 145 0.953797 

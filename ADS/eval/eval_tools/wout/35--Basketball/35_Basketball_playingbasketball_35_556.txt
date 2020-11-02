@@ -1,0 +1,4 @@
+35--Basketball/35_Basketball_playingbasketball_35_556.jpg
+2
+374 517 184 249 0.999794 
+593 0 315 305 0.450345 

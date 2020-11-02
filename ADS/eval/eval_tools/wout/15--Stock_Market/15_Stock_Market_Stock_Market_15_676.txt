@@ -1,0 +1,4 @@
+15--Stock_Market/15_Stock_Market_Stock_Market_15_676.jpg
+2
+87 379 281 337 0.162867 
+78 56 279 340 0.0305583 

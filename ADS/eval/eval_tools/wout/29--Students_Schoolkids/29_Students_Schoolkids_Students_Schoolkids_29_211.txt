@@ -1,0 +1,6 @@
+29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_211.jpg
+4
+561 135 115 151 0.999761 
+850 202 21 26 0.187734 
+809 231 32 30 0.0663522 
+898 261 92 123 0.0402206 

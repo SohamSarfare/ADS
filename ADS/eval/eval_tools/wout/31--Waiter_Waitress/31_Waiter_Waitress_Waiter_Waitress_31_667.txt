@@ -1,0 +1,5 @@
+31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_667.jpg
+3
+274 109 85 123 0.999404 
+702 128 76 103 0.99928 
+530 159 128 201 0.247016 

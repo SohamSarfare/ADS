@@ -1,0 +1,4 @@
+35--Basketball/35_Basketball_basketballgame_ball_35_513.jpg
+2
+225 93 187 239 0.999681 
+619 190 161 200 0.999573 

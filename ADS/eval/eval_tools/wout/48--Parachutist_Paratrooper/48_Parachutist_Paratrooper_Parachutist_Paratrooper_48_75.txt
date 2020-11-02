@@ -1,0 +1,5 @@
+48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_75.jpg
+3
+381 92 41 50 0.996477 
+855 160 43 62 0.985877 
+476 283 16 18 0.534032 

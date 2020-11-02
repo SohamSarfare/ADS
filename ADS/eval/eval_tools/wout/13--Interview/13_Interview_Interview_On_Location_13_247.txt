@@ -1,0 +1,5 @@
+13--Interview/13_Interview_Interview_On_Location_13_247.jpg
+3
+359 92 207 287 0.99949 
+76 149 23 29 0.0590223 
+555 485 24 27 0.0303309 

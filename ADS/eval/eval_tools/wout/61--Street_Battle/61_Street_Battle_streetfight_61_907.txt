@@ -1,0 +1,4 @@
+61--Street_Battle/61_Street_Battle_streetfight_61_907.jpg
+2
+529 169 140 199 0.99943 
+252 291 144 200 0.999299 

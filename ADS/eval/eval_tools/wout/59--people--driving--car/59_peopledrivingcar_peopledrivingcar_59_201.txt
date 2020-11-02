@@ -1,0 +1,5 @@
+59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_201.jpg
+3
+820 127 172 275 0.999857 
+647 188 136 199 0.993996 
+408 352 199 276 0.0217218 

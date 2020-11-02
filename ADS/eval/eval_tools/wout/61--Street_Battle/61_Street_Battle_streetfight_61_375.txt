@@ -1,0 +1,4 @@
+61--Street_Battle/61_Street_Battle_streetfight_61_375.jpg
+2
+362 147 315 438 0.999474 
+0 761 37 93 0.102389 

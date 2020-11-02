@@ -1,0 +1,5 @@
+13--Interview/13_Interview_Interview_Sequences_13_15.jpg
+3
+790 295 63 75 0.999084 
+750 281 88 103 0.137259 
+905 0 42 32 0.0236853 

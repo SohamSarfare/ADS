@@ -1,0 +1,5 @@
+13--Interview/13_Interview_Interview_2_People_Visible_13_420.jpg
+3
+336 410 221 337 0.999144 
+843 352 9 12 0.0612912 
+400 368 7 9 0.0238904 

@@ -1,0 +1,5 @@
+2--Demonstration/2_Demonstration_Political_Rally_2_807.jpg
+3
+503 183 216 291 0.717884 
+73 615 12 14 0.0289393 
+201 167 179 242 0.020135 

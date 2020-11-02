@@ -1,0 +1,5 @@
+52--Photographers/52_Photographers_taketouristphotos_52_141.jpg
+3
+114 385 65 84 0.999614 
+444 384 58 77 0.99732 
+359 318 89 123 0.135516 

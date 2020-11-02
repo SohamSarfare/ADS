@@ -1,0 +1,5 @@
+52--Photographers/52_Photographers_photographertakingphoto_52_776.jpg
+3
+384 279 466 520 0.997904 
+336 164 307 345 0.819112 
+209 112 346 466 0.0301746 

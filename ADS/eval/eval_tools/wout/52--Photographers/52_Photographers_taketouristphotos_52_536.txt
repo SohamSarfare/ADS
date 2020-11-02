@@ -1,0 +1,5 @@
+52--Photographers/52_Photographers_taketouristphotos_52_536.jpg
+3
+527 225 121 213 0.999715 
+980 423 42 94 0.359143 
+232 107 98 108 0.0998369 

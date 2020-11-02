@@ -1,0 +1,4 @@
+25--Soldier_Patrol/25_Soldier_Patrol_Soldier_Patrol_25_324.jpg
+2
+533 134 88 55 0.998708 
+591 110 63 80 0.0382156 

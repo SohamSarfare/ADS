@@ -1,0 +1,6 @@
+29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_525.jpg
+4
+351 98 83 106 0.999741 
+189 31 66 75 0.999417 
+614 163 190 234 0.999197 
+695 134 164 247 0.0414185 

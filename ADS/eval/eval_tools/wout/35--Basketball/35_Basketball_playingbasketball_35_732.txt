@@ -1,0 +1,5 @@
+35--Basketball/35_Basketball_playingbasketball_35_732.jpg
+3
+642 250 39 53 0.989835 
+960 224 7 9 0.123975 
+763 315 20 36 0.040534 

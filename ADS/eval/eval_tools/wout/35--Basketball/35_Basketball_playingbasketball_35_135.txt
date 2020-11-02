@@ -1,0 +1,4 @@
+35--Basketball/35_Basketball_playingbasketball_35_135.jpg
+2
+494 257 33 44 0.992037 
+514 418 56 45 0.0298616 

@@ -1,0 +1,4 @@
+16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_482.jpg
+2
+422 172 271 365 0.999254 
+152 748 340 386 0.0495896 

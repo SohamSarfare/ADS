@@ -1,0 +1,4 @@
+49--Greeting/49_Greeting_peoplegreeting_49_486.jpg
+2
+409 134 128 204 0.999197 
+605 646 30 36 0.0974723 

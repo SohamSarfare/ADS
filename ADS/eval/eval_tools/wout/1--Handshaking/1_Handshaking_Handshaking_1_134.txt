@@ -1,0 +1,4 @@
+1--Handshaking/1_Handshaking_Handshaking_1_134.jpg
+2
+700 56 92 161 0.99993 
+294 72 94 135 0.999711 

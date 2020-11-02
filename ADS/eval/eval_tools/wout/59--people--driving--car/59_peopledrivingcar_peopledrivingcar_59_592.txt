@@ -1,0 +1,5 @@
+59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_592.jpg
+3
+387 64 37 38 0.999546 
+417 253 18 20 0.0884516 
+839 261 184 245 0.0221886 

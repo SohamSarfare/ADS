@@ -1,0 +1,5 @@
+9--Press_Conference/9_Press_Conference_Press_Conference_9_74.jpg
+3
+139 279 78 85 0.99929 
+460 263 80 110 0.999268 
+857 278 75 89 0.999145 

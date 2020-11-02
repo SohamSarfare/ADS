@@ -1,0 +1,6 @@
+52--Photographers/52_Photographers_photographertakingphoto_52_428.jpg
+4
+488 305 137 117 0.999197 
+660 262 104 130 0.0628849 
+603 161 14 19 0.0556105 
+999 260 12 15 0.03067 

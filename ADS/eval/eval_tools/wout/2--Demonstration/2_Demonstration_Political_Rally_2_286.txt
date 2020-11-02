@@ -1,0 +1,5 @@
+2--Demonstration/2_Demonstration_Political_Rally_2_286.jpg
+3
+809 662 82 105 0.99939 
+432 725 84 104 0.999313 
+85 1244 225 188 0.0207442 

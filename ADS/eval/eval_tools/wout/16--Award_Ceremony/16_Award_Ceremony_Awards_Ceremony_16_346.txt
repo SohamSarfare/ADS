@@ -1,0 +1,5 @@
+16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_346.jpg
+3
+223 28 67 98 0.999247 
+650 73 200 295 0.998784 
+890 548 133 240 0.0304808 

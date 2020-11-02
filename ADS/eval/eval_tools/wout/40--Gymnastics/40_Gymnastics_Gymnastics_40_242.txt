@@ -1,0 +1,4 @@
+40--Gymnastics/40_Gymnastics_Gymnastics_40_242.jpg
+2
+495 459 77 46 0.999945 
+0 329 19 30 0.0239369 

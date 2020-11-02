@@ -1,0 +1,6 @@
+8--Election_Campain/8_Election_Campain_Election_Campaign_8_300.jpg
+4
+213 465 132 159 0.999901 
+83 50 118 172 0.999366 
+701 451 141 178 0.999329 
+579 83 134 186 0.999177 

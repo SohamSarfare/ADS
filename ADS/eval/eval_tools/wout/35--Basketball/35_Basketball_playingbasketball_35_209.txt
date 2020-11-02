@@ -1,0 +1,4 @@
+35--Basketball/35_Basketball_playingbasketball_35_209.jpg
+2
+368 207 389 511 0.999634 
+451 771 33 46 0.0273901 

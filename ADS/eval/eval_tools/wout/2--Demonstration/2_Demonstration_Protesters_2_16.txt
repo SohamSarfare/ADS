@@ -1,0 +1,5 @@
+2--Demonstration/2_Demonstration_Protesters_2_16.jpg
+3
+287 508 85 103 0.999519 
+629 592 77 100 0.99936 
+95 0 135 97 0.0341134 

@@ -1,0 +1,4 @@
+24--Soldier_Firing/24_Soldier_Firing_Soldier_Firing_24_904.jpg
+2
+505 0 231 300 0.346694 
+779 388 111 137 0.212974 

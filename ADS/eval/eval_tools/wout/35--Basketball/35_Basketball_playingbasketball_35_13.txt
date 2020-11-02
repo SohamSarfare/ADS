@@ -1,0 +1,4 @@
+35--Basketball/35_Basketball_playingbasketball_35_13.jpg
+2
+441 168 90 118 0.999583 
+305 296 347 316 0.0334068 

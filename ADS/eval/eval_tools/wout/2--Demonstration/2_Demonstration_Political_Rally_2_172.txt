@@ -1,0 +1,4 @@
+2--Demonstration/2_Demonstration_Political_Rally_2_172.jpg
+2
+391 290 355 482 0.99927 
+19 0 320 267 0.0677297 

@@ -1,0 +1,5 @@
+52--Photographers/52_Photographers_photographertakingphoto_52_358.jpg
+3
+414 184 98 132 0.998199 
+753 318 27 31 0.295981 
+372 153 158 229 0.0242817 

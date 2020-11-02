@@ -1,0 +1,6 @@
+50--Celebration_Or_Party/50_Celebration_Or_Party_houseparty_50_749.jpg
+4
+335 108 142 196 0.999485 
+9 515 36 40 0.0384692 
+20 864 53 59 0.0364272 
+20 534 19 24 0.024992 

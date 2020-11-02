@@ -1,0 +1,6 @@
+12--Group/12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_126.jpg
+4
+93 158 10 12 0.569049 
+794 391 46 63 0.505732 
+820 389 30 35 0.0951021 
+778 392 41 65 0.0294705 

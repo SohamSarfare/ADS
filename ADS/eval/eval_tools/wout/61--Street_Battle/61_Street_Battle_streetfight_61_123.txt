@@ -1,0 +1,4 @@
+61--Street_Battle/61_Street_Battle_streetfight_61_123.jpg
+2
+197 118 118 157 0.999613 
+800 122 110 174 0.78749 

@@ -1,0 +1,4 @@
+9--Press_Conference/9_Press_Conference_Press_Conference_9_930.jpg
+2
+241 117 360 491 0.999255 
+495 1289 124 182 0.0383956 

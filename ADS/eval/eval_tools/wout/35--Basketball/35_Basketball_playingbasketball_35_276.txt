@@ -1,0 +1,5 @@
+35--Basketball/35_Basketball_playingbasketball_35_276.jpg
+3
+507 206 113 83 0.999477 
+441 61 61 89 0.999114 
+771 563 64 61 0.0384095 

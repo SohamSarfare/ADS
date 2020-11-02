@@ -1,0 +1,5 @@
+13--Interview/13_Interview_Interview_2_People_Visible_13_245.jpg
+3
+231 124 162 178 0.999835 
+470 71 150 230 0.999613 
+0 1091 182 273 0.638879 

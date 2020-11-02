@@ -1,0 +1,4 @@
+16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_84.jpg
+2
+433 157 261 360 0.99883 
+557 987 142 210 0.0287743 

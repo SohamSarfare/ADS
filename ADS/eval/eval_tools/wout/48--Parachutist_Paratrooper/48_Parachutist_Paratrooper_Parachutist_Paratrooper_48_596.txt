@@ -1,0 +1,5 @@
+48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_596.jpg
+3
+448 185 112 133 0.999429 
+307 756 78 127 0.0873968 
+470 784 89 115 0.0275108 

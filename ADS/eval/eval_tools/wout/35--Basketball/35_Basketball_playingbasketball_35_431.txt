@@ -1,0 +1,5 @@
+35--Basketball/35_Basketball_playingbasketball_35_431.jpg
+3
+444 143 47 73 0.99861 
+464 45 71 89 0.998376 
+797 101 30 35 0.260449 

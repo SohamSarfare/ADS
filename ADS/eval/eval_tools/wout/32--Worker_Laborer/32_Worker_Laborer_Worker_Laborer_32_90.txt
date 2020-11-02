@@ -1,0 +1,4 @@
+32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_90.jpg
+2
+367 238 133 178 0.999345 
+196 710 63 72 0.0209235 

@@ -1,0 +1,4 @@
+2--Demonstration/2_Demonstration_Political_Rally_2_896.jpg
+2
+296 288 85 103 0.999765 
+689 46 89 118 0.999426 

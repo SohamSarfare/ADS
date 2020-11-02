@@ -1,0 +1,5 @@
+29--Students_Schoolkids/29_Students_Schoolkids_Students_Schoolkids_29_436.jpg
+3
+318 165 169 170 0.997944 
+271 114 160 242 0.0314935 
+832 472 17 18 0.0214089 

@@ -1,0 +1,5 @@
+16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_422.jpg
+3
+284 175 378 505 0.998627 
+850 1463 39 39 0.0419181 
+694 1306 27 30 0.0225476 

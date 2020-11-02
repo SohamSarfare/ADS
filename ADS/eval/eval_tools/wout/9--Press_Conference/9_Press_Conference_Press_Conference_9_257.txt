@@ -1,0 +1,5 @@
+9--Press_Conference/9_Press_Conference_Press_Conference_9_257.jpg
+3
+685 342 132 178 0.999541 
+269 192 153 213 0.999252 
+176 317 79 116 0.0636303 

@@ -1,0 +1,4 @@
+59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_906.jpg
+2
+270 410 264 349 0.999459 
+674 361 288 491 0.239455 

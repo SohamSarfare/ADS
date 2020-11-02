@@ -1,0 +1,5 @@
+31--Waiter_Waitress/31_Waiter_Waitress_Waiter_Waitress_31_842.jpg
+3
+755 561 147 267 0.999953 
+353 147 164 234 0.999392 
+424 620 97 109 0.0219552 

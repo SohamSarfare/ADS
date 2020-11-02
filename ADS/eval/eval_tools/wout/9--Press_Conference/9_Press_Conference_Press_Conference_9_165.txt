@@ -1,0 +1,5 @@
+9--Press_Conference/9_Press_Conference_Press_Conference_9_165.jpg
+3
+472 55 73 85 0.999651 
+90 47 72 94 0.999107 
+839 38 78 113 0.99854 

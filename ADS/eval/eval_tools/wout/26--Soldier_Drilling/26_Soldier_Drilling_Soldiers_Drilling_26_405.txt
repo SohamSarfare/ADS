@@ -1,0 +1,6 @@
+26--Soldier_Drilling/26_Soldier_Drilling_Soldiers_Drilling_26_405.jpg
+4
+555 179 47 53 0.999709 
+853 265 23 28 0.99901 
+399 202 45 53 0.998922 
+141 347 25 32 0.998563 

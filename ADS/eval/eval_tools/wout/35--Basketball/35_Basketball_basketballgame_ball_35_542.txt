@@ -1,0 +1,5 @@
+35--Basketball/35_Basketball_basketballgame_ball_35_542.jpg
+3
+320 259 38 51 0.998872 
+552 256 40 52 0.99831 
+87 258 42 50 0.987847 

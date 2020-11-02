@@ -1,0 +1,7 @@
+48--Parachutist_Paratrooper/48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_164.jpg
+5
+567 383 279 369 0.271731 
+545 135 37 46 0.138109 
+170 147 17 27 0.0692218 
+168 222 356 419 0.0373436 
+121 446 410 460 0.0242719 

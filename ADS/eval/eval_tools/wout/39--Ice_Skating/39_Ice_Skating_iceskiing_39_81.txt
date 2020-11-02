@@ -1,0 +1,4 @@
+39--Ice_Skating/39_Ice_Skating_iceskiing_39_81.jpg
+2
+29 128 51 60 0.999432 
+495 142 30 39 0.998042 

@@ -1,0 +1,4 @@
+49--Greeting/49_Greeting_peoplegreeting_49_10.jpg
+2
+267 81 92 149 0.999798 
+719 93 95 157 0.999771 

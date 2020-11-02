@@ -1,0 +1,6 @@
+52--Photographers/52_Photographers_photographertakingphoto_52_84.jpg
+4
+349 210 123 167 0.538542 
+249 166 237 266 0.447282 
+351 282 232 288 0.0743585 
+326 114 52 58 0.0297252 

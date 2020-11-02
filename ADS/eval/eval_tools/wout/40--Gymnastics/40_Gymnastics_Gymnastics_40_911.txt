@@ -1,0 +1,4 @@
+40--Gymnastics/40_Gymnastics_Gymnastics_40_911.jpg
+2
+493 369 67 80 0.999509 
+605 183 225 304 0.0204201 

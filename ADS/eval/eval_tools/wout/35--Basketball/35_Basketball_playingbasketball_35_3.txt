@@ -1,0 +1,5 @@
+35--Basketball/35_Basketball_playingbasketball_35_3.jpg
+3
+812 116 72 87 0.999566 
+517 99 46 64 0.998887 
+284 21 67 96 0.997822 

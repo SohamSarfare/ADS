@@ -1,0 +1,5 @@
+16--Award_Ceremony/16_Award_Ceremony_Awards_Ceremony_16_524.jpg
+3
+843 318 91 131 0.999582 
+435 286 104 134 0.999268 
+225 241 86 110 0.0455276 

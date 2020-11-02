@@ -1,0 +1,4 @@
+35--Basketball/35_Basketball_playingbasketball_35_566.jpg
+2
+582 63 109 139 0.999204 
+386 181 98 128 0.999088 

@@ -1,0 +1,4 @@
+52--Photographers/52_Photographers_photographertakingphoto_52_310.jpg
+2
+626 174 74 114 0.999435 
+610 200 55 90 0.0409056 

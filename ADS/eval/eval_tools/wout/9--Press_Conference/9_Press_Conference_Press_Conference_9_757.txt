@@ -1,0 +1,4 @@
+9--Press_Conference/9_Press_Conference_Press_Conference_9_757.jpg
+2
+130 145 358 477 0.999583 
+327 204 211 348 0.023189 

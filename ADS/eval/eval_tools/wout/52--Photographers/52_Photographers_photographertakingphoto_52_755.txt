@@ -1,0 +1,5 @@
+52--Photographers/52_Photographers_photographertakingphoto_52_755.jpg
+3
+463 242 103 101 0.998879 
+482 203 134 131 0.345102 
+713 396 98 131 0.0406201 

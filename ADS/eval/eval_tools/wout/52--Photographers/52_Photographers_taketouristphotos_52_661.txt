@@ -1,0 +1,5 @@
+52--Photographers/52_Photographers_taketouristphotos_52_661.jpg
+3
+325 196 31 41 0.999467 
+642 459 104 131 0.300242 
+894 374 25 29 0.0260699 

@@ -1,0 +1,6 @@
+59--people--driving--car/59_peopledrivingcar_peopledrivingcar_59_1014.jpg
+4
+62 38 27 35 0.977607 
+49 165 16 18 0.0687682 
+4 333 10 17 0.0548704 
+425 336 18 18 0.0301668 

@@ -1,0 +1,5 @@
+32--Worker_Laborer/32_Worker_Laborer_Worker_Laborer_32_812.jpg
+3
+386 74 97 132 0.999685 
+164 0 115 86 0.132695 
+294 671 11 6 0.0237653 

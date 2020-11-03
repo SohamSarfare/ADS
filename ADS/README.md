@@ -19,4 +19,4 @@ This is a modified repository structured similarly to the original repository wh
 2. To test RetinaFace-50 on this new data, run the command `python test.py new_data/all/img output/all`. This will produce the labels as predicted by RetinaFace-50 in the `output` folder. 
 3. Run `python test_output.py output/all/text new_data/all/text all` to produce the PR curves along with MAP values for the new data. 
 
-[original](all.png)
+![original](all.png)

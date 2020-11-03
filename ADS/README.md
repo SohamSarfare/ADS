@@ -8,9 +8,10 @@ This is a modified repository structured similarly to the original repository wh
 
 ## Original Data
 
-1. Download the WiderFace dataset from the drive link [here](). Create a folder `data` and unzip the contents in that folder. 
-2. Download the pre-trained model from the drive link [here](). Create a folder `model` and unzip the contents in that folder.
-3. Follow the steps present in the `ADS.ipynb` to install dependencies and execute the test code. The outputs will be saved in the `wout` folder. 
+1. Download the WiderFace dataset from the drive link [here](https://drive.google.com/file/d/1MNA2D6ClJIttnsbkQwYnf8MMV6HxkFcL/view?usp=sharing). Create a folder `data` and unzip the contents in that folder. 
+2. Download the pre-trained model from the drive link [here](https://drive.google.com/file/d/1HAcjUk2DS2L7-05K8uLLq_Gc-XKuUol5/view?usp=sharing). Create a folder `model` and unzip the contents in that folder.
+3. Using a conda environment, install additional dependencies, `pip install mxnet-cu101 opencv-python easydict Cython`.
+3. Use the command `python test_widerface.py --prefix './model/R50' --mode=1` to test the pretrained RetinaFace-50 (R50) model on the WiderFace dataset. The outputs will be saved in the `wout` folder. 
 4. Move the `wout` folder in `eval/eval_tools` and execute the `wider_eval.m` file to produce the output PR curve graphs. 
 
 ## New Data
